@@ -1,7 +1,7 @@
 # uniting_image
 
 # 깃허브
-회사자산 미기재
+회사자산 미기재(2인 프로젝트)
 
 # 스토어
 https://play.google.com/store/apps/details?id=com.unilab.uniting
