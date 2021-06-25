@@ -5,6 +5,7 @@
 
 # 스토어
 https://play.google.com/store/apps/details?id=com.unilab.uniting
+현재는 비용문제로 출시상태가 아닙니다.
 
 # 스토어 사진
 <img src="https://user-images.githubusercontent.com/37071007/99551024-b761bd00-29fe-11eb-993e-9d254699c18b.png"/>
